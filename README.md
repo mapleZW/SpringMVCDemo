@@ -17,7 +17,7 @@ If you have any questions or opinions, you can create issues here. Thanks :)
 
 There is also an old Spring 3.2.0 version of this tutorial here: [See the spring3.2 branch](https://github.com/gaussic/SpringMVCDemo/tree/spring3.2)
 
-Welcome to visit my personal blog: [Gaussic](http://gaussic.top)
+Welcome to visit my personal  blog: [Gaussic](http://gaussic.top)
 
 ---
 
