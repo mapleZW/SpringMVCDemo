@@ -8,7 +8,7 @@ To run this project, you should create a database called "springdemo", and impor
 
 If you want to watch the whole tutorial, you can go to [Gaussic OSChina](http://my.oschina.net/gaussik/blog/385697) for more detail.
 
-Better use the newest version of IntelliJ IDEA, JDK 1.8_x, and Tomcat 8.x.
+Better  use the newest version of IntelliJ IDEA, JDK 1.8_x, and Tomcat 8.x.
 
 
 If you've got any problems caused by this upgration, better look up the documents in [Spring Framework Reference](http://docs.spring.io/spring/docs/4.3.0.BUILD-SNAPSHOT/spring-framework-reference/htmlsingle/).
@@ -22,7 +22,7 @@ Welcome to visit my personal blog: [Gaussic](http://gaussic.top)
 ---
 
 ### 介绍
-(转载)
+(转载)  
 这是我个人在学习过程中整理的一个SpringMVCDemo项目。
 
 如果要运行这个项目，首先要创建一个"springdemo"数据库，注意选择utf-8格式，然后将springdemo.sql导入到数据库中。
