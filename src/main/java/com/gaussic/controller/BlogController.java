@@ -43,6 +43,7 @@ public class BlogController {
         return "admin/addBlog";
     }
 
+
     // 添加博文，POST请求，重定向为查看博客页面
     @RequestMapping(value = "/admin/blogs/addP", method = RequestMethod.POST)
     public String addBlogPost(@ModelAttribute("blog") BlogEntity blogEntity) {
